@@ -1,0 +1,88 @@
+O:001:Snowman:Leisure:made:2603:::Snowmen:a:
+O:002:King's Crown:Loot:got:2654:::King's Crowns:a:
+O:003:King's Crown:Loot:got:265A:::King's Crowns:a:
+O:004:Queen's Crown:Loot:got:2655:::Queen's Crowns:a:
+O:005:Queen's Crown:Loot:got:265B:::Queen's Crowns:a:
+X:006:Sad Face:Exp:had:2639:::Sad Faces:a:
+X:007:Happy Face:Exp:had:263A:::Happy Faces:a:
+X:008:Peace Sign:Exp:had:262E:::Peace Signs:a:
+O:009:Daisy:Flower:got:273F:::Daisies:a:
+O:010:Pear:Fruit:ate:1F350:D83C:DF50:Pears:a:
+O:011:Cherry:Fruit:ate:1F352:D83C:DF52:Cherries:a:
+O:012:Burger:Food:ate:1F354:D83C:DF54:Burgers:a:
+O:013:Pizza:Food:ate:1F355:D83C:DF55:Pizzas:a:
+O:014:Cake:Food:ate:1F382:D83C:DF82:Cakes:a:
+O:015:Coffee:Food:drank:1F375:D83C:DF75:Coffees:a:
+O;016:Ice Cream Cone:Dessert:ate:1F366:D83C:DF66:Ice Cream Cones:an:
+O:017:Ice Cream:Dessert:ate:1F368:D83C:DF68:Ice Creams:an:
+O:018:Wine Glass:Alcohol:drank:1F377:D83C:DF77:Wine Glasses:a:
+O:019:Candy:Dessert:ate:1F36C:D83C:DF6C:Candies:a:
+O:020:Lollipop:Dessert:ate:1F36D:D83C:DF6D:Lollipops:a:
+O:021:Bread:Food:ate:1F35E:D83C:DF5E:Bread::
+O:022:Tomato:Fruit:ate:1F345:D83C:DF45:Tomatos:a:
+O:023:French Fries:Food:ate:1F35F:D83C:DF5F: French Fries:a:
+O:024:Apple:Fruit:ate:1F34F:D83C:DF4F:Apples:an:
+O:025:Gift:Loot:has:1F381:D83C:DF81:Gifts:a:
+O:026:Plate of Pasta:Food:ate:1F35D:D83C:DF5D:Plates of Pasta:a:
+O:027:Roller Coaster:Leisure:rode:1F3A2:D83C:DFA2:Roller Coasters:a:
+O:028:Basketball:Sport:played:1F3C0:D83C:DFC0:Basketball Games::
+O:029:Football:Sport:played:1F3C8:D83C:DFC8:Football Games::
+O:030:Guitar:Sport:had:1F3B8:D83C:DFB8:Guitars::
+O:031:Bowling:Sport:went:1F3B3:D83C:DFB3:Bowling::
+O:032:Bunny:Pet:saw:1F430:D83D:DC30:Bunnies:a:
+O:033:Cat:Pet:has:1F431:D83D:DC31:Cats:a:
+O:034:Monkey:Zoo:went to the zoo and saw:1F412:D83D:DC12:Monkies:a:
+O:035:Elephant:Zoo:went to the zoo and saw:1F438:D83D:DC18:Elephants:an:
+O:036:Panda:Zoo:went to the zoo and saw:1F43C:D83D:DC3C:Pandas:a:
+O:037:Pig:Farm:went to a farm and saw:1F437:D83D:DC37:Pigs:a:
+O:038:Lady Bug:Luck:found:1F43E:D83D:DC3E:Lady Bugs:a:
+O:039:Penguin:Zoo:went to the zoo and saw:1F427:D83D:DC27:Penguins:a:
+O:040:Shirt:Clothes:got:1F455:D83D:DC55:Shirts:a:
+O:041:Diamond:Loot:has:1F48E:D83D:DC8E:Diamonds:a:
+O:042:Rocket:Toy:got:1F680:D83D:DC80:Rockets:a:
+O:043:Exercise :Exercise:did:1F4AA:D83D:DCAA:Exercises:an:
+O:046:Money Bag:Loot:has:1F4B0:D83D:DCB0:Money Bags:a:
+O:047:Dollar:Loot:has:1F4B5:D83D:DCB5:Dollars:a:
+O:049:Tropical Island:Leisure:went to:1F3DD:D83C:DFDD:Tropical Islands:a:
+O:050:Heart Exercise:Health:did:1F49B:D83D:DC9B:Heart Exercises:a:
+X:051:OK Hand:Exp:had:1F44C:D83D:DC4C:OK Hands:an:
+X:052:Thumbs Up:Exp:had:1F44D:D83D:DC4D:Thumbs Up:a:
+O:053:Applause:Leisure:got:1F44F:D83D:DC4F:Applause:some:
+X:054:Sleepy Face:Exp:had:1F634:D83D:DE34:Sleepy Faces:a:
+X:056:No Sign:Exp:had:1F6AB:D83D:DEAB:No Sign:a:
+O:057:Car:Loot:has:1F697:D83D:DE97:Cars:a:
+O:058:Bicycle:Exercise:rode:1F6B2:D83D:DEB2:Bicycles:a:
+O:059:Snow Board:Sport:rode:1F3C2:D83C:DFC2:Snow Boards:a:
+O:060:Medal:Loot:has:1F3C5:D83C:DFC5:Medals:a:
+O:061:Trophy:Loot:has:1F3C6:D83C:DFC6:Trophies:a:
+O:062:Swim:Exercise:went for:1F3CA:D83C:DFCA:Swim:a:
+O:063:Beer Stein:Alcohol:drank from:1F37A:D83C:DF7A:Beer Steins:a:
+O:064:Beer Steins:Alcohol:drank from:1F37B:D83C:DF7B:Beer Steins::
+O:065:Drink:Alcohol:drank:1F379:D83C:DF79:Drinks::
+O:067:Golf:Sport:played:1F3CC:D83C:DFCC:Golf::
+O:068:Motorcycle:Sport:rode:1F3CD:D83C:DFCD:Motorcycles:a:
+O:070:Tiger:Zoo:went to the zoo and saw:1F42F:D83D:DC2F:Tigers:a:
+O:071:Dog:Pet:has:1F436:D83D:DC36:Dogs:a:
+O:072:Train:Leisure:took a trip on:1F686:D83D:DE86:Trains:a:
+O:073:Truck:Leisure:rode in:1F69A:D83D:DE9A:Trucks:a:
+O:074:Bus:Leisure:took a trip in:1F68C:D83D:DE8C:Buses:a:
+O:075:Plane:Leisure:took a trip on:1F6EA:D83D:DEEA:Planes:a:
+O:076:Plane:Leisure:took a trip on:1F6E7:D83D:DEE7:Planes:a:
+O:077:Plane:Leisure:took a trip on:1F6E6:D83D:DEE6:Planes:a:
+O:078:Plane:Leisure:took a trip on:1F6E8:D83D:DEE8:Planes:a:
+O:079:Good Time:Leisure:had:1F603:D83D:DE03:Good Times:a:
+O:080:Good Time:Leisure:had:1F604:D83D:DE04:Good Times:a:
+O:081:Good Time:Leisure:had:1F606:D83D:DE06:Good Times:a:
+O:082:Good Time:Leisure:had:1F60A:D83D:DE0A:Good Times:a:
+O:083:TV:Leisure:watched:1F4FA:D83D:DCFA:TV:some:
+O:084:Computer:Smart:worked with:1F4BB:D83D:DCBB:Computers:a:
+O:085:Tennis:Leisure:played:1F3BE:D83C:DFBE:Tennis:some:
+O:086:Ferris Wheel:Leisure:rode on:1F3A1:D83C:DFA1:Ferris Wheels:a:
+O:087:News Paper:Smart:read:1F4F0:D83D:DCF0:News Papers:a:
+O:088:Fireworks:Party:went to see:1F386:D83C:DF86:Fireworks::
+O:089:Balloon:Party:got:1F388:D83C:DF88:Balloons:a:
+O:090:Friend:Party:saw:1F46B:D83D:DC6B:Friends:a:
+O:091:Noise Maker:Party:had:1F389:D83C:DF89:Noise Maker:a:
+O:092:Book:Smart:read:1F4D9:D83D:DFD9:Books:a:
+O:093:Locomotive:Leisure:took a trip on:1F682:D83D:DE82:Locomotives:a:
+O:094:SUV:Leisure:went for a drive in:1F699:D83D:DE99:SUVs:a:

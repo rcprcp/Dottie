@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\pre-dexed\debug\classes-4b121743063e33d27d113e2e51d3b2bdf1fa0923.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\pre-dexed\debug\classes-aebea7d4e7dbc60555e053bef36acef93a958d30.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\pre-dexed\debug\classes-5e9873a49b2c108a52f90debbadf744c41298c61.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\pre-dexed\debug\classes-35202343c00dc409d958989d7696085d79865b5e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-a9a9170c0bb9436f10fb4a0f425f03b806c7c231.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\pre-dexed\debug\classes-ebb7d724d4e792684292e2e96cf9bcda55a93a03.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\pre-dexed\debug\classes-1be7783533ef2bb3e813f7d62f96895612a5d3aa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\pre-dexed\debug\classes-36c34ca64680fe2f5d04ba2dc1d47fdca2e5ce6a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\pre-dexed\debug\classes-40a837389d6c7f90df3cb8bf74eec5d1f8049b06.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\pre-dexed\debug\classes-5bc6e4869191be588c56a3f9e1d0717c5598b535.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\pre-dexed\debug\classes-e3055f608efb550dc05f56d9e73c1f3da5967c89.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\pre-dexed\debug\classes-0818e08c985012303642b87c2ee0725d0ade1225.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marij\StudioProjects\Dottie\app\libs\commons-lang3-3.3.2.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="659861b4acde07a0527211e40d256119face1d15">
+        <dex dex="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\pre-dexed\debug\commons-lang3-3.3.2-85b0d9667ad72116f685eb3b6c3ed237416de3e6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-cc4abc686b400f4f0f6e4fbb21774e0832389f59.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\pre-dexed\debug\classes-8e706ab589e480114d574522a37770646ddbd397.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\pre-dexed\debug\classes-27b8af9ff6acd9481ec14c255e5be413299dfea0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\pre-dexed\debug\classes-775b6d477415000080ec37a868cb2e841ef048ee.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marij\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-bc7fb269ff76b2bbdbd0fecf29d3c4e7895bde67.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\pre-dexed\debug\classes-28502c0468dd5d0b6d19b6a60fd790685cb9a2be.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\pre-dexed\debug\classes-d5811aaf053f6ad66fa24f9ec831b9f8d405bfd3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\pre-dexed\debug\classes-2fd6fb36e75196183ce809d9eab0f8f0915d3bd5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\pre-dexed\debug\classes-a77ddb15a99516590a957ee9018cabbe32ea9457.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\pre-dexed\debug\classes-f5b391f765a71a6c2ea422fef7399ec826de28f4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\pre-dexed\debug\classes-4e9b1dedc951ed488337f1160df8e56fecf7c789.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\pre-dexed\debug\classes-5bfd54939e5aadd6f6ae90d8aafa5b125098ba3e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\pre-dexed\debug\classes-c3347fbdd7a7a223c662b8c45ecd340292c9ac13.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\pre-dexed\debug\classes-f4ea7654038784ec1f5cd1cc51c55f3bab1f4d50.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="C:\Users\Marij\StudioProjects\Dottie\app\build\intermediates\pre-dexed\debug\classes-62988305e6fc8f8d04ce2b3694c8a1242a22927d.jar" />
+    </item>
+
+</items>

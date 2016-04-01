@@ -1,0 +1,40 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".StartDottie"  >
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="15dp"
+        android:text="@string/app_name"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/title"
+        android:layout_alignParentRight="true"
+        android:padding="15dp"
+        android:text="@string/start" />
+
+    
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_below="@id/title"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/instructions"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="15dp"
+            android:textSize="12sp" />
+    </ScrollView>
+
+</RelativeLayout><!-- From: file:/home/bob/AndroidStudioProjects/Dottie/app/src/main/res/layout/splash.xml -->
